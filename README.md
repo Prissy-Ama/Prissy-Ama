@@ -1,16 +1,16 @@
 ### Hi there 👋
 
+# I am Prisca Amaechi
+
 <!--
-**Prissy-Ama/Prissy-Ama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :wave: Hi, I'm Prisca Amaechi
+- :boom: I'm a junior developer and UI/UX designer
+- 🔭 I’m currently working on something interesting
+- 🌱 I’m currently learning frontend engineering and UI/UX design at coursera
+- 👯 I’m looking to collaborate on projects that solves problems and enlightens me
+- 🤔 I’m looking for help with getting better at frontend engineering and UI/UX design
+- 💬 Ask me about HTML and CSS 
+- 📫 How to reach me: priscadona50@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love learning new skills that make me relevant
 -->
