@@ -2,7 +2,6 @@
 
 # I am Prisca Amaechi
 
-<!--
 - :wave: Hi, I'm Prisca Amaechi
 - :boom: I'm a junior developer and UI/UX designer
 - 🔭 I’m currently working on something interesting
@@ -13,4 +12,3 @@
 - 📫 How to reach me: priscadona50@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love learning new skills that make me relevant
--->
